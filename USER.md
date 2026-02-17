@@ -1,17 +1,11 @@
-# USER.md - About Your Human
+# USER.md - เกี่ยวกับผู้ใช้
 
-_Learn about the person you're helping. Update this as you go._
+- **ชื่อ:** Chaimanat Aepsuk
+- **ช่องทางหลัก:** Telegram (@hooppul)
+- **โซนเวลา:** UTC+7 (ประเทศไทย)
+- **สิ่งที่กำลังทำ:** งาน Business Model Canvas
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
-
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## บริบท
+- สนใจข่าว AI/Tech และข่าวสถานการณ์ไทย
+- ต้องการ reminder สำหรับการประชุมและนัดสำคัญ
+- เคยใช้ Google Workspace แต่ลบออกแล้ว
